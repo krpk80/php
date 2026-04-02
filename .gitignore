@@ -1,2 +1,3 @@
-heat_loss_calculator/build/
 heat_loss_calculator/.dart_tool/
+heat_loss_calculator/build/
+heat_loss_calculator/.pub-cache/
